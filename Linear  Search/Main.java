@@ -3,7 +3,7 @@ public class Main {
 
         int [] nums = {23,6,42,75,84,36,25,33,74,24,88};
         int target = 74;
-        int element = linearseach(nums,target);
+        Boolean element = linearseach3(nums,target);
         System.out.println(element);
 
     }
