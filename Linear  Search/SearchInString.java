@@ -1,4 +1,5 @@
-public class SearchInString {
+public class SearchInString
+{
     public static void main(String[] args) {
         String str = "Sourav";
         char target = 'a';
@@ -19,9 +20,10 @@ public class SearchInString {
             return false;
         }
 
-}
 
-static boolean Search2(String Str, char target)
+
+    static boolean Search2(String Str, char target)
+    {
         {
             if (Str.length() == 0)
             {
@@ -34,5 +36,7 @@ static boolean Search2(String Str, char target)
             }
             return false;
         }
+
+    }
 
 }
