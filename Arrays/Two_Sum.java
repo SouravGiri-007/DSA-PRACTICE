@@ -1,3 +1,4 @@
+// problem link: "https://leetcode.com/problems/two-sum/description/"
 import java.util.Scanner;
 
 public class Two_Sum {
@@ -28,7 +29,7 @@ public class Two_Sum {
 
         System.out.println("Enter the target sum:");
         int target = scanner.nextInt();
-        
+
         int[] result = twoSum(nums, target);
         
         System.out.println("\"Indices of the elements that add up to the target are:" + result[0] +  "and"  + result[1]);
