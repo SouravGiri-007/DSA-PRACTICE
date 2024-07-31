@@ -1,3 +1,5 @@
+// problem link= "https://shorturl.at/uN5fG"
+
 import java.util.Scanner;
 
 class Solution {
