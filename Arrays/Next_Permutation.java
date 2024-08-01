@@ -1,3 +1,5 @@
+// problem link = "https://leetcode.com/problems/next-permutation/description/"
+
 public class Next_Permutation {
 
     public static void nextPermutation(int[] nums) {
